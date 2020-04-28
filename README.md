@@ -1,1 +1,1 @@
-# Room729
+Room 729 includes the implementations of a 2D Rubik's Cube and of the office room 729 from Futurama S6E6 "Lethal Inspection" in C.
